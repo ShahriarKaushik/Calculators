@@ -1,4 +1,4 @@
-// Length converter -- feetToMile.assignment no- 1
+// Length converter -- feetToMile
 
 function feetToMile(feet){
     // as we know that 1 feet = 0.000189394 mile.So multiplying the input feet with mile(0.000189394) will help to get the result.
@@ -26,7 +26,7 @@ console.log("your result is",result,"miles.");
 
 
 
-// woodCalcultor -- assignment no- 2
+// woodCalcultor
 
 // Builing a function for three parameter.
 function woodCalcultor(chair,table,bed){
@@ -61,7 +61,7 @@ console.log("Altogether you need",total,"cubic feet of woods.");
 
 
 
-// Bricks Calculator-- assignment no- 3
+// Bricks Calculator
 
 function brickCalculator(floors){
 
@@ -111,7 +111,7 @@ console.log("You need toal",totalBricks,"bricks.");
 
 
 
-// tinyFriend assignment no- 4
+// tinyFriend
 
 function tinyFriend(names){
     var tiny = names[0];
