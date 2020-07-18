@@ -92,7 +92,7 @@ return total;
 }
 
 // here 35 is inputed data
-var totalBricks = brickCalculator(20);
+var totalBricks = brickCalculator(35);
 
 // Showing output
 console.log("You need toal",totalBricks,"bricks.");
